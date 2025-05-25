@@ -43,15 +43,6 @@ Used a multi-class classification dataset from the [UCI Machine Learning Reposit
 
 ---
 
-## Plot (Convergence of Best Accuracy)
-
-The plot below shows the accuracy trend across all 10 randomized samples.
-
-![download (1)](https://github.com/user-attachments/assets/3ee5fa83-4e02-4587-8c5a-e22e17b51f0f)
-
-
-- **X-axis**: Sample iteration (S1 to S10)
-- **Y-axis**: Accuracy
 - **Insight**: Model consistently reaches ~97% accuracy using `rbf` kernel and appropriate `C`.
 
 
